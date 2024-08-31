@@ -7,3 +7,4 @@ stepik.org/course/187
     + Утилиты javac , java , jar
 2. Базовый синтаксис Java
     + Типизация
+    + Типы данных в Java
